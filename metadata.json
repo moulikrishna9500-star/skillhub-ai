@@ -2,5 +2,5 @@
   "name": "SkillHub AI",
   "description": "Peer-to-peer skill swap and mentorship platform connecting lifelong learners to exchange knowledge for free.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE"]
 }
